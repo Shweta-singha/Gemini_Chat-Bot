@@ -1,18 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/fe0d6fcd-8f52-4bac-adce-d3351fbb0af7" alt="google-gemini-icon" height="70">
-
-# Gemini Clone
-
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Gemini-Clone)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Gemini-Clone)
-![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Gemini-Clone)
-![GitHub License](https://img.shields.io/github/license/RanitManik/Gemini-Clone)
-![GitHub forks](https://img.shields.io/github/forks/RanitManik/Gemini-Clone?style=default)
-![GitHub stars](https://img.shields.io/github/stars/RanitManik/Gemini-Clone?style=default)
-<br/>
-![Vercel Deploy status](https://deploy-badge.vercel.app/vercel/Gemini-Clone)
-![wakatime](https://wakatime.com/badge/github/RanitManik/Gemini-Clone.svg)
 
 </div>
 
